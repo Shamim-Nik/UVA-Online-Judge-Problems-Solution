@@ -1,4 +1,4 @@
-#100 - The 3n + 1 problem.cpp
+# 100 - The 3n + 1 problem.cpp
 ```cpp
 #include<cstdio>
 #include<iostream>
@@ -33,7 +33,7 @@ int main()
 }
 ```
 
-#102 - Ecological Bin Packing.cpp
+# 102 - Ecological Bin Packing.cpp
 ```cpp
 #include<cstdio>
 #include<cstring>
@@ -84,7 +84,7 @@ int main()
 }
 ```
 
-#108 - Maximum Sum.cpp
+# 108 - Maximum Sum.cpp
 ```cpp
 #include<cstdio>
 #include<iostream>
