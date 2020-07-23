@@ -123,7 +123,7 @@ UVA-Online-Judge-Problems-Solution
 >>>
 >>>[ 10071 - Back to High School Physics.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10071%20-%20Back%20to%20High%20School%20Physics.cpp)
 >>>
->>>[ 10082 - WERTYU.cpp ] (https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10082%20-%20WERTYU.cpp)
+>>>[ 10082 - WERTYU.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10082%20-%20WERTYU.cpp)
 >>>
 >> 
 >> Volume 101
@@ -141,45 +141,183 @@ UVA-Online-Judge-Problems-Solution
 >>> 
 >>
 >> Volume 102
+>>>[ 10220 - I Love Big Numbers !.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20102/10220%20-%20I%20Love%20Big%20Numbers%20!.cpp)
+>>>
+>>>[ 10222 - Decode the Mad man.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20102/10222%20-%20Decode%20the%20Mad%20man.cpp)
+>>>
+>>>[ 10235 - Simply Emirp.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20102/10235%20-%20Simply%20Emirp.cpp)
+>>>
+>>>[ 10252 - Common Permutation.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20102/10252%20-%20Common%20Permutation.cpp)
+>>>
+>>>[ 10281 - Average Speed.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20102/10281%20-%20Average%20Speed.cpp)
+>>>
+>>
+>> Volume 10
+>>>[ 10302 - Summation of Polynomials.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20103/10302%20-%20Summation%20of%20Polynomials.cpp)
+>>>
+>>>[ 10323 - Factorial! You Must be Kidding!!!.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20103/10323%20-%20Factorial!%20You%20Must%20be%20Kidding!!!.cpp)
+>>>
+>>>[ 10324 - Zeros and Ones.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20103/10324%20-%20Zeros%20and%20Ones.cpp)
+>>>
+>>>[ 10327 - Flip Sort.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20103/10327%20-%20Flip%20Sort.cpp)
+>>>
+>>>[ 10346 - Peter’s Smokes.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20103/10346%20-%20Peter%E2%80%99s%20Smokes.cpp)
+>>>
+>>>[ 10347 - Medians.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20103/10347%20-%20Medians.cpp)
+>>>
+>>>[ 10370 - Above Average.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20103/10370%20-%20Above%20Average.cpp)
+>>>
 >>
 >> Volume 104
+>>>[ 10420 - List of Conquests.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20104/10420%20-%20List%20of%20Conquests.cpp)
+>>>
+>>>[ 10424 - Love Calculator.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20104/10424%20-%20Love%20Calculator.cpp)
+>>>
+>>>{ 10469 - To Carry or not to Carry.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20104/10469%20-%20To%20Carry%20or%20not%20to%20Carry.cpp)
+>>>
+>>>[ 10474 - Where is the Marble?.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20104/10474%20-%20Where%20is%20the%20Marble%3F.cpp)
+>>>
 >>
 >> Volume 105
+>>>[ 10523 - Very Easy !!!.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20105/10523%20-%20Very%20Easy%20!!!.cpp)
+>>>
+>>>[ 10533 - Digit Primes.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20105/10533%20-%20Digit%20Primes.cpp)
+>>>
+>>>[ 10550 - Combination Lock.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20105/10550%20-%20Combination%20Lock.cpp)
+>>>
+>>>[ 10579 - Fibonacci Numbers.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20105/10579%20-%20Fibonacci%20Numbers.cpp)
+>>>
+>>>[ 10591 - Happy Number.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20105/10591%20-%20Happy%20Number.cpp)
+>>>
 >>
 >> Volume 106
+>>>[ 10656 - Maximum Sum (II).cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20106/10656%20-%20Maximum%20Sum%20(II).cpp)
+>>>
+>>>[ 10696 - f91.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20106/10696%20-%20f91.cpp)
+>>>
 >>
 >> Volume 107
+>>>[ 10773 - Back to Intermediate Math.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20107/10773%20-%20Back%20to%20Intermediate%20Math.cpp)
+>>>
+>>>[ 10783 - Odd Sum.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20107/10783%20-%20Odd%20Sum.cpp)
+>>>
+>>>[ 10789 - Prime Frequency.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20107/10789%20-%20Prime%20Frequency.cpp)
+>>>
+>>>[ 10790 - How Many Points of Intersection?.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20107/10790%20-%20How%20Many%20Points%20of%20Intersection%3F.cpp)
+>>>
 >>
 >> Volume 108
+>>>[ 10812 - Beat the Spread!.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20108/10812%20-%20Beat%20the%20Spread!.cpp)
+>>>
 >>
 >> Volume 109
+>>>[ 10921 - Find the Telephone.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20109/10921%20-%20Find%20the%20Telephone.cpp)
+>>>
+>>>[ 10922 - 2 the 9s.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20109/10922%20-%202%20the%209s.cpp)
+>>>
+>>>[ 10929 - You can say 11.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20109/10929%20-%20You%20can%20say%2011.cpp)
+>>>
+>>>[ 10931 - Parity.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20109/10931%20-%20Parity.cpp)
+>>>
+>>>[ 10945 - Mother bear.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20109/10945%20-%20Mother%20bear.cpp)
+>>>
+>>>[ 10954 - Add All.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20109/10954%20-%20Add%20All.cpp)
+>>>
 >>
 >> Volume 110
+>>>[ 11044 - Searching for Nessy.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20110/11044%20-%20Searching%20for%20Nessy.cpp)
+>>>
 >>
 >> Volume 111
+>>>[ 11172 - Relational Operator.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20111/11172%20-%20Relational%20Operator.cpp)
+>>>
+>>>[ 11192 - Group Reverse.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20111/11192%20-%20Group%20Reverse.cpp)
+>>>
 >>
 >> Volume 113
+>>>[ 11332 - Summing Digits.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20113/11332%20-%20Summing%20Digits.cpp)
+>>>
+>>>[ 11340 - Newspaper.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20113/11340%20-%20Newspaper.cpp)
+>>>
+>>>[ 11364 - Optimal Parking.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20113/11364%20-%20Optimal%20Parking.cpp)
+>>>
+>>>[ 11388 - GCD LCM.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20113/11388%20-%20GCD%20LCM.cpp)
+>>>
 >>
 >> Volume 114
+>>>[ 11417 - GCD.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20114/11417%20-%20GCD.cpp)
+>>>
+>>>[ 11428 - Cubes.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20114/11428%20-%20Cubes.cpp)
+>>>
+>>>[ 11462 - Age Sort.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20114/11462%20-%20Age%20Sort.cpp)
+>>>
+>>>[ 11498 - Division of Nlogonia.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20114/11498%20-%20Division%20of%20Nlogonia.cpp)
+>>>
+>>>[ 1466 - Largest Prime Divisor .cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20114/1466%20-%20Largest%20Prime%20Divisor%09.cpp)
+>>>
 >>
 >> Volume 115
+>>>[ 11541 - Decoding.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20115/11541%20-%20Decoding.cpp)
+>>>
+>>>[ 11547 - Automatic Answer.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20115/11547%20-%20Automatic%20Answer.cpp)
+>>>
+>>>[ 11559 - Event Planning.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20115/11559%20-%20Event%20Planning.cpp)
+>>>
+>>>[ 11565 - Simple Equations.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20115/11565%20-%20Simple%20Equations.cpp)
+>>>
 >>
 >> Volume 116
+>>>[ 11608 - No Problem.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20116/11608%20-%20No%20Problem.cpp)
+>>>
+>>>[ 11636 - Hello World!.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20116/11636%20-%20Hello%20World!.cpp)
+>>>
 >>
 >> Volume 117
+>>>[ 11727 - Cost Cutting.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20117/11727%20-%20Cost%20Cutting.cpp)
+>>>
+>>>[ 11799 - Horror Dash.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20117/11799%20-%20Horror%20Dash.cpp)
+>>>
 >>
 >> Volume 118
+>>>[ 11827 - Maximum GCD.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20118/11827%20-%20Maximum%20GCD.cpp)
+>>>
+>>>[ 11849 - CD.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20118/11849%20-%20CD.cpp)
+>>>
+>>>[ 11875 - Brick Game.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20118/11875%20-%20Brick%20Game.cpp)
+>>>
+>>>[ 11879 - Multiple of 17.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20118/11879%20-%20Multiple%20of%2017.cpp)
+>>>
 >>
 >> Volume 119
+>>>[ 11946 - Code Number.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20119/11946%20-%20Code%20Number.cpp)
+>>>
+>>>[ 11960 - Divisor Game.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20119/11960%20-%20Divisor%20Game.cpp)
+>>>
 >>
 >> Volume 120
+>>>[ 12004 - Bubble Sort.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20120/12004%20-%20Bubble%20Sort.cpp)
+>>>
 >>
 >> Volume 122
+>>>[ 12250 - Language Detection.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20122/12250%20-%20Language%20Detection.cpp)
+>>>
+>>>[ 12279 - Emoogle Balance.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20122/12279%20-%20Emoogle%20Balance.cpp)
+>>>
+>>>[ 12289 - One-Two-Three.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20122/12289%20-%20One-Two-Three.cpp)
+>>>
 >>
 >> Volume 124
+>>>[ 12461 - Airplane.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20124/12461%20-%20Airplane.cpp)
+>>>
+>>>[ 12478 - Hardest Problem Ever (Easy).cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20124/12478%20-%20Hardest%20Problem%20Ever%20(Easy).cpp)
+>>>
 >>
 >> Volume 126
+>>>[ 12626 - I ❤ Pizza.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20126/12626%20-%20I%20%E2%9D%A4%20Pizza.cpp)
+>>>
 >>
 >> Volume 131
+>>>[ 13131 - Divisors.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20131/13131%20-%20Divisors.cpp)
+>>>
 >>
 >
