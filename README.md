@@ -1,7 +1,5 @@
 UVA-Online-Judge-Problems-Solution
 
-> Contest Volumes 
->
 > Problem Set Volumes 
 >> Volume 1
 >>>[ 100 - The 3n + 1 problem.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Problem%20Set%20Volumes/Volume%201/100%20-%20The%203n%20%2B%201%20problem.cpp)
@@ -99,5 +97,89 @@ UVA-Online-Judge-Problems-Solution
 >> Volume 17
 >>>[ 1727 - Counting Weekend Days.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Problem%20Set%20Volumes/Volume%2017/1727%20-%20Counting%20Weekend%20Days.cpp)
 >>>
+>>
+>
+> Contest Volumes 
+>> Volume 100
+>>>[ 10013 - Super long sums.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10013%20-%20Super%20long%20sums.cpp)
+>>>
+>>>[ 10018 - Reverse and Add.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10018%20-%20Reverse%20and%20Add.cpp)
+>>>
+>>>[ 10019 - Funny Encryption Method.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10019%20-%20Funny%20Encryption%20Method.cpp)
+>>>
+>>>[ 10025 - The ? 1 ? 2 ? ... ? n = k problem.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10025%20-%20The%20%3F%201%20%3F%202%20%3F%20...%20%3F%20n%20%3D%20k%20problem.cpp)
+>>>
+>>>[ 10035 - Primary Arithmetic.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10035%20-%20Primary%20Arithmetic.cpp)
+>>>
+>>>[ 10038 - Jolly Jumpers.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10038%20-%20Jolly%20Jumpers.cpp)
+>>>
+>>>[ 10041 - Vito's Family.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10041%20-%20Vito's%20Family.cpp)
+>>>
+>>>[ 10055 - Hashmat the brave warrior.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10055%20-%20Hashmat%20the%20brave%20warrior.cpp)
+>>>
+>>>[ 10066 - The Twin Towers.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10066%20-%20The%20Twin%20Towers.cpp)
+>>>
+>>>[ 10070 - Leap Year or Not Leap Year and ...cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10070%20-%20Leap%20Year%20or%20Not%20Leap%20Year%20and%20...cpp)
+>>>
+>>>[ 10071 - Back to High School Physics.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10071%20-%20Back%20to%20High%20School%20Physics.cpp)
+>>>
+>>>[ 10082 - WERTYU.cpp ] (https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20100/10082%20-%20WERTYU.cpp)
+>>>
+>> 
+>> Volume 101
+>>>[ 10101 - Bangla Numbers.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20101/10101%20-%20Bangla%20Numbers.cpp)
+>>>
+>>>[ 10107 - What is the Median?.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20101/10107%20-%20What%20is%20the%20Median%3F.cpp)
+>>>
+>>>[ 10110 - Light, more light.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20101/10110%20-%20Light%2C%20more%20light.cpp)
+>>>
+>>>[ 10114 - Loansome Car Buyer.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20101/10114%20-%20Loansome%20Car%20Buyer.cpp)
+>>>
+>>>[ 10127 - Ones.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20101/10127%20-%20Ones.cpp)
+>>>
+>>>[ 10190 - Divide, But Not Quite Conquer!.cpp ](https://github.com/Shamim-Nik/UVA-Online-Judge-Problems-Solution/blob/master/Contest%20Volumes/Volume%20101/10190%20-%20Divide%2C%20But%20Not%20Quite%20Conquer!.cpp)
+>>> 
+>>
+>> Volume 102
+>>
+>> Volume 104
+>>
+>> Volume 105
+>>
+>> Volume 106
+>>
+>> Volume 107
+>>
+>> Volume 108
+>>
+>> Volume 109
+>>
+>> Volume 110
+>>
+>> Volume 111
+>>
+>> Volume 113
+>>
+>> Volume 114
+>>
+>> Volume 115
+>>
+>> Volume 116
+>>
+>> Volume 117
+>>
+>> Volume 118
+>>
+>> Volume 119
+>>
+>> Volume 120
+>>
+>> Volume 122
+>>
+>> Volume 124
+>>
+>> Volume 126
+>>
+>> Volume 131
 >>
 >
